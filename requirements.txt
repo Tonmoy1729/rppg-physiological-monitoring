@@ -1,0 +1,10 @@
+gradio==5.49.1
+numpy
+pandas
+scipy
+torch
+opencv-python-headless
+mediapipe==0.10.14
+scikit-learn
+joblib
+matplotlib
